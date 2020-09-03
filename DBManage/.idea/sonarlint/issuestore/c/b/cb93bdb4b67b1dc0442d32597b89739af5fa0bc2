@@ -1,0 +1,9 @@
+
+rsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Œ–„´úÿÿÿÿ8¯Ä¹äÄ.
+fsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(î„³—8Ð…´äÄ.
+jsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ê¥¶îüÿÿÿÿ8ïŠ¾äÄ.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¹¡ŠäÄ.
+Gsquid:S2115")Add password protection to this database.(î„³—8Ð…´äÄ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê×¼©8·¿£åÄ.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Øì‹äÄ.

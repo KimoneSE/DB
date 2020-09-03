@@ -1,0 +1,9 @@
+
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(Ï±Èÿşÿÿÿÿ8Ğ‘¼ñÄ.
+esquid:S001124"FDefine and throw a dedicated exception instead of using a generic one.(«¤ÜÕ8Şë¶ñÄ.
+V
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ë˜Š8â¼ñÄ.
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ø¹éÄ8Ğ‘¼ñÄ.
+ysquid:S1450"VRemove the "factory" field and declare it as a local variable in the relevant methods.(Ä³¿şşÿÿÿÿ8¼šµñÄ.

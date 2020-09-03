@@ -1,0 +1,15 @@
+
+V
+squid:S106U"9Replace this use of System.out or System.err by a logger.(ÆªÏ¡8Œ€»ìÄ.
+V
+squid:S106c"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ8Ï™†íÄ.
+ysquid:S1450"VRemove the "factory" field and declare it as a local variable in the relevant methods.(Ä³¿şşÿÿÿÿ8Í€×çÄ.
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ8ÌßçÄ.
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ÚÍìşÿÿÿÿ8ˆÉ¹ìÄ.
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ê×¼©8™–¹îÄ.
+Zsquid:S1854O"7Remove this useless assignment to local variable "res".(ùÂ‡úøÿÿÿÿ8´ëåëÄ.
+fsquid:S00112…"FDefine and throw a dedicated exception instead of using a generic one.(«¤ÜÕ8»íƒíÄ.
+Ksquid:S1481O"(Remove this unused "res" local variable.(ùÂ‡úøÿÿÿÿ8´ëåëÄ.
